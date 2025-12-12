@@ -1,0 +1,2 @@
+# FootBall-Vision-2022-Advanced-Match-Player-VAR-Analytics-Platform
+Built an end-to-end World Cup 2022 Football Analytics dashboard in Power BI with KPIs like xG, possession %, momentum, and pressure zones. Designed interactive visuals including heatmaps, shot maps, pass networks, and event timelines. Added pre-match prediction models, post-match comparisons, and a Referee &amp; VAR decision analysis module.
