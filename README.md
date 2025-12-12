@@ -145,10 +145,9 @@ PBIX file & dataset available in this repository.
 
 ---
 
-# 🤝 **Connect With Me**
+📬 **Connect with me:**  
+[LinkedIn](www.linkedin.com/in/shushant-kharate-2b490a376) | [GitHub](https://github.com/Shushant-Kharate/PowerBi_Hr_Analytics) | [Email](skharate215@gmail.com)  
 
-If you'd like to collaborate on sports analytics or data projects — feel free to reach out!
-
----
+Happy Analyzing! 📊
 
 
